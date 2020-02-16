@@ -14,6 +14,8 @@ elif Alter <=13:
 
 elif Alter <=17:
     print("Du bist ein Teenager")
+elif Alter ==43:
+    print("du bist genauso alt, wie mein Papa:)")
 
 else:
     print("Du bist ein Erwachsener")
